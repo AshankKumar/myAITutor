@@ -1,6 +1,6 @@
 # chimpbase.com 4/22-7/22
 
-[![Watch the video](dummy-thumbnail.jpg)](https://youtu.be/2uPNEAD0KFs)
+[![Watch the video](dummy-thumbnail.png)](https://youtu.be/2uPNEAD0KFs)
 
 
 ## DevSetup
